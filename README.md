@@ -1,2 +1,2 @@
 # Smart-Traffic-Signal-System
-An adaptive traﬃc controller that dynamically adjusts signal timing based on vehicle density on each side of the road.
+Developed a Smart Traffic Signal System that dynamically adjusts traffic light timings based on vehicle density. The system aims to reduce traffic congestion, minimize waiting time, and improve traffic flow.
